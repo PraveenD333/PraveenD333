@@ -39,6 +39,7 @@
     <tr>
       <td><a href="https://github.com/PraveenD333/Uber"><b>Uber Clone</b></a></td> 
     </tr>
+	  <tr><a href="https://github.com/PraveenD333/PrepAI"><b>PrepAI</b></a></tr>
 	<tr>
       <td><a href="https://github.com/PraveenD333/ChatApp"><b>ChatApp</b></a></td>
     </tr>
