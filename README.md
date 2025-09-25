@@ -33,26 +33,33 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td> 
+		<td><b>🔗 Links</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/PraveenD333/Uber"><b>Uber Clone</b></a></td> 
+      <td><a href="https://github.com/PraveenD333/Uber"><b>Uber Clone</b></a></td>
+		<td><a href="https://uber-zeta-five.vercel.app/"><b>Link 1</b></a></td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/PraveenD333/PrepAI"><b>PrepAI</b></a></td>
+		<td><a href="https://praveen-prep-ai-ivory.vercel.app/"><b>Link 2</b></a></td>
 	</tr>
 	<tr>
       <td><a href="https://github.com/PraveenD333/ChatApp"><b>ChatApp</b></a></td>
+	  <td><a href="https://praveen-chatapp.vercel.app/login"><b>Link 3</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/PraveenD333/Weather"><b>WeatherApp</b></a></td>
+	  <td><a href="https://praveen-weather.vercel.app/"><b>Link 4</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/PraveenD333/Calculator"><b>Calculator</b></a></td>
+	  <td><a href="https://calculator-omega-blond-66.vercel.app/"><b>Link 5</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/PraveenD333/Netflix-Page"><b>Netflix Landing Page</b></a></td>
+	  <td><a href="https://netflix-page-vert.vercel.app/"><b>Link 6</b></a></td>
     </tr>
   </tbody>
 </table>
